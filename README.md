@@ -3,13 +3,13 @@ A Python webpage scraper utilising Beautiful Soup.
 
 Prints a formatted list (titles and descriptions) of all the films in the 'Now Showing' section of a cinema locations webpage.
 
-# Usage
+## Usage
 1. Navigate to the [Empire Cinemas](https://www.empirecinemas.co.uk/) website and choose a cinema location.
 2. Navigate to the 'Now Showing' page for the given location.
 3. Copy the URL into the `url` variable
 4. Run the script
 
-# Example Output
+## Example Output
 What follows is an example output of the script for the Birmingham location (url: https://www.empirecinemas.co.uk/nowshowing/t33).
 
 >1) Fast & Furious: Hobbs & Shaw
