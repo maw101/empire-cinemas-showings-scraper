@@ -6,7 +6,7 @@ Prints a formatted list (titles and descriptions) of all the films in the 'Now S
 ## Usage
 1. Navigate to the [Empire Cinemas](https://www.empirecinemas.co.uk/) website and choose a cinema location.
 2. Navigate to the 'Now Showing' page for the given location.
-3. Copy the URL into the `url` variable
+3. Copy the URL into the `url` variable at the top of the script
 4. Run the script
 
 ## Example Output
