@@ -1,4 +1,4 @@
-# Empire Cinemas Now Showing Webpage Scraper
+# Empire Cinemas 'Now Showing' Webpage Scraper
 A Python webpage scraper utilising Beautiful Soup.
 
 Prints a formatted list (titles and descriptions) of all the films in the 'Now Showing' section of a cinema locations webpage.
