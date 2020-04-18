@@ -13,7 +13,6 @@ if (url != ""): # check url not empty
     filmsNowShowing = soup.find('div', attrs={'class': 'line-after-last-perf'}) # get array of film data in 'now showing' section
     filmList = filmsNowShowing.findAll('div', attrs={'class': 'infos'})
     
-    
     for filmInfo in filmList:
       filmHeading = filmInfo.find('h2')
       filmTitle = filmHeading.find('a').text.strip() # get raw text for heading
