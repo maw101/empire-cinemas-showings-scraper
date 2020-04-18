@@ -10,7 +10,7 @@ Prints a formatted list (titles and descriptions) of all the films in the 'Now S
 4. Run the script
 
 ## Example Output
-What follows is an example output of the script for the High Wycombe location (url: https://www.empirecinemas.co.uk/nowshowing/t2).
+What follows is an example output of the script for the High Wycombe location (url: <https://www.empirecinemas.co.uk/nowshowing/t2>).
 
 >1) Fast & Furious: Hobbs & Shaw
 >Lawman Luke Hobbs and outcast Deckard Shaw form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.
